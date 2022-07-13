@@ -1,0 +1,13 @@
+{
+    "lang": "tr-TR",
+    "success": false,
+    "infos": [],
+    "warnings": [],
+    "errors": [
+        {
+            "kodu": "LGN2000",
+            "mesaj": "Oturumunuz Sonlanm\u0131\u015ft\u0131r. Tekrar giri\u015f yap\u0131n. (LGN2000)"
+        }
+    ],
+    "data": null
+}

@@ -1,0 +1,344 @@
+[
+    {
+        "value": 106,
+        "text": "Aile Hekimliği"
+    },
+    {
+        "value": 107,
+        "text": "Algoloji"
+    },
+    {
+        "value": 181001,
+        "text": "Amatem (Alkol ve Madde Bağımlılığı)"
+    },
+    {
+        "value": 109,
+        "text": "Anesteziyoloji ve Reanimasyon"
+    },
+    {
+        "value": 112,
+        "text": "Beyin ve Sinir Cerrahisi"
+    },
+    {
+        "value": 116,
+        "text": "Çocuk Cerrahisi"
+    },
+    {
+        "value": 117,
+        "text": "Çocuk Diş Hekimliği"
+    },
+    {
+        "value": 118,
+        "text": "Çocuk Endokrinolojisi"
+    },
+    {
+        "value": 119,
+        "text": "Çocuk Enfeksiyon Hastalıkları"
+    },
+    {
+        "value": 120,
+        "text": "Çocuk Gastroenterolojisi"
+    },
+    {
+        "value": 199,
+        "text": "Çocuk Göğüs Hastalıkları"
+    },
+    {
+        "value": 123,
+        "text": "Çocuk Hematolojisi ve Onkolojisi"
+    },
+    {
+        "value": 124,
+        "text": "Çocuk İmmünolojisi ve Alerji Hastalıkları"
+    },
+    {
+        "value": 125,
+        "text": "Çocuk Kalp Damar Cerrahisi"
+    },
+    {
+        "value": 126,
+        "text": "Çocuk Kardiyolojisi"
+    },
+    {
+        "value": 127,
+        "text": "Çocuk Metabolizma Hastalıkları"
+    },
+    {
+        "value": 128,
+        "text": "Çocuk Nefrolojisi"
+    },
+    {
+        "value": 129,
+        "text": "Çocuk Nörolojisi"
+    },
+    {
+        "value": 131,
+        "text": "Çocuk Romatolojisi"
+    },
+    {
+        "value": 132,
+        "text": "Çocuk Sağlığı ve Hastalıkları",
+        "children": [
+            {
+                "value": 9000009,
+                "text": "Yeni Doğan"
+            }
+        ]
+    },
+    {
+        "value": 133,
+        "text": "Çocuk Ürolojisi"
+    },
+    {
+        "value": 181003,
+        "text": "Çocuk ve Ergen Madde ve Alkol Bağımlılığı"
+    },
+    {
+        "value": 134,
+        "text": "Çocuk ve Ergen Ruh Sağlığı ve Hastalıkları"
+    },
+    {
+        "value": 136,
+        "text": "Deri ve Zührevi Hastalıkları (Cildiye)"
+    },
+    {
+        "value": 198,
+        "text": "Diş Hekimliği (Genel Diş)"
+    },
+    {
+        "value": 137,
+        "text": "El Cerrahisi"
+    },
+    {
+        "value": 138,
+        "text": "Endodonti"
+    },
+    {
+        "value": 139,
+        "text": "Endokrinoloji ve Metabolizma Hastalıkları"
+    },
+    {
+        "value": 140,
+        "text": "Enfeksiyon Hastalıkları ve Klinik Mikrobiyoloji"
+    },
+    {
+        "value": 142,
+        "text": "Fiziksel Tıp ve Rehabilitasyon"
+    },
+    {
+        "value": 144,
+        "text": "Gastroenteroloji"
+    },
+    {
+        "value": 145,
+        "text": "Gastroenteroloji Cerrahisi"
+    },
+    {
+        "value": 220,
+        "text": "Geleneksel Tamamlayıcı Tıp Ünitesi"
+    },
+    {
+        "value": 147,
+        "text": "Genel Cerrahi",
+        "children": [
+            {
+                "value": 9000062,
+                "text": "Kronik Yara Bakımı"
+            }
+        ]
+    },
+    {
+        "value": 148,
+        "text": "Geriatri"
+    },
+    {
+        "value": 149,
+        "text": "Göğüs Cerrahisi"
+    },
+    {
+        "value": 150,
+        "text": "Göğüs Hastalıkları"
+    },
+    {
+        "value": 151,
+        "text": "Göz Hastalıkları",
+        "children": [
+            {
+                "value": 9000001,
+                "text": "Glokom"
+            },
+            {
+                "value": 9000004,
+                "text": "Kontaklens"
+            },
+            {
+                "value": 9000066,
+                "text": "Kornea"
+            },
+            {
+                "value": 9000006,
+                "text": "Nörooftalmoloji"
+            },
+            {
+                "value": 9000005,
+                "text": "Okuloplasti"
+            },
+            {
+                "value": 9000063,
+                "text": "Önsegment"
+            },
+            {
+                "value": 9000007,
+                "text": "Retina"
+            },
+            {
+                "value": 9000002,
+                "text": "Şaşılık"
+            },
+            {
+                "value": 9000003,
+                "text": "Uvea"
+            }
+        ]
+    },
+    {
+        "value": 155,
+        "text": "Hematoloji"
+    },
+    {
+        "value": 157,
+        "text": "İç Hastalıkları (Dahiliye)"
+    },
+    {
+        "value": 158,
+        "text": "İmmünoloji ve Alerji Hastalıkları"
+    },
+    {
+        "value": 159,
+        "text": "İş ve Meslek Hastalıkları"
+    },
+    {
+        "value": 160,
+        "text": "Jinekolojik Onkoloji Cerrahisi"
+    },
+    {
+        "value": 161,
+        "text": "Kadın Hastalıkları ve Doğum"
+    },
+    {
+        "value": 162,
+        "text": "Kalp ve Damar Cerrahisi"
+    },
+    {
+        "value": 163,
+        "text": "Kardiyoloji"
+    },
+    {
+        "value": 164,
+        "text": "Klinik Nörofizyoloji"
+    },
+    {
+        "value": 165,
+        "text": "Kulak Burun Boğaz Hastalıkları"
+    },
+    {
+        "value": 166,
+        "text": "Nefroloji"
+    },
+    {
+        "value": 167,
+        "text": "Neonatoloji"
+    },
+    {
+        "value": 168,
+        "text": "Nöroloji"
+    },
+    {
+        "value": 169,
+        "text": "Nükleer Tıp"
+    },
+    {
+        "value": 170,
+        "text": "Ortodonti"
+    },
+    {
+        "value": 171,
+        "text": "Ortopedi ve Travmatoloji"
+    },
+    {
+        "value": 173,
+        "text": "Perinatoloji"
+    },
+    {
+        "value": 174,
+        "text": "Periodontoloji"
+    },
+    {
+        "value": 175,
+        "text": "Plastik, Rekonstrüktif ve Estetik Cerrahi"
+    },
+    {
+        "value": 176,
+        "text": "Protetik Diş Tedavisi"
+    },
+    {
+        "value": 177,
+        "text": "Radyasyon Onkolojisi"
+    },
+    {
+        "value": 179,
+        "text": "Restoratif Diş Tedavisi"
+    },
+    {
+        "value": 180,
+        "text": "Romatoloji"
+    },
+    {
+        "value": 181,
+        "text": "Ruh Sağlığı ve Hastalıkları (Psikiyatri)"
+    },
+    {
+        "value": 210,
+        "text": "Sağlık Kurulu"
+    },
+    {
+        "value": 211,
+        "text": "Sağlık Kurulu ÇÖZGER (Çocuk Özel Gereksinim Raporu)"
+    },
+    {
+        "value": 150001,
+        "text": "Sigarayı Bıraktırma Kliniği"
+    },
+    {
+        "value": 183,
+        "text": "Spor Hekimliği"
+    },
+    {
+        "value": 184,
+        "text": "Sualtı Hekimliği ve Hiperbarik Tıp"
+    },
+    {
+        "value": 187,
+        "text": "Tıbbi Ekoloji ve Hidroklimatoloji"
+    },
+    {
+        "value": 189,
+        "text": "Tıbbi Genetik"
+    },
+    {
+        "value": 192,
+        "text": "Tıbbi Onkoloji"
+    },
+    {
+        "value": 196,
+        "text": "Üroloji"
+    },
+    {
+        "value": 103,
+        "text": "Ağız, Diş ve Çene Cerrahisi"
+    },
+    {
+        "value": 104,
+        "text": "Ağız, Diş ve Çene Radyolojisi"
+    }
+]

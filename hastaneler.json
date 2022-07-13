@@ -1,0 +1,170 @@
+[
+    {
+        "value": 378230,
+        "text": "İSTANBUL- (AVRUPA)- ARNAVUTKÖY DEVLET HASTANESİ"
+    },
+    {
+        "value": 793110,
+        "text": "İSTANBUL -(AVRUPA)-  AVCILAR MURAT KÖLÜK DEVLET HASTANESİ"
+    },
+    {
+        "value": 183567,
+        "text": "İSTANBUL- (AVRUPA)- BAĞCILAR EĞİTİM VE ARAŞTIRMA HASTANESİ"
+    },
+    {
+        "value": 782162,
+        "text": "İSTANBUL- (AVRUPA)- BAHÇELİEVLER DEVLET HASTANESİ"
+    },
+    {
+        "value": 3457,
+        "text": "İSTANBUL- (AVRUPA)- BAKIRKÖY- DR. SADİ KONUK EĞİTİM ARAŞTIRMA HASTANESİ",
+        "children": [
+            {
+                "value": 182978,
+                "text": "İSTANBUL- (AVRUPA)- BAKIRKÖY- DR. SADİ KONUK EĞİTİM ARAŞTIRMA HASTANESİ BAHÇELİEVLER SEMT POLİKLİNİĞİ"
+            },
+            {
+                "value": 426934,
+                "text": "İSTANBUL-(AVRUPA)-PROF. DR. MURAT DİLMENER ACİL DURUM HASTANESİ EK HİZMET BİNASI"
+            }
+        ]
+    },
+    {
+        "value": 3459,
+        "text": "İSTANBUL- (AVRUPA)- BAKIRKÖY PROF. DR. MAZHAR OSMAN RUH SAĞLIĞI VE SİNİR HASTALIKLARI EĞİTİM VE ARAŞTIRMA HASTANESİ"
+    },
+    {
+        "value": 27911,
+        "text": "İSTANBUL-(AVRUPA)- BAŞAKŞEHİR ÇAM VE SAKURA ŞEHİR HASTANESİ"
+    },
+    {
+        "value": 187596,
+        "text": "İSTANBUL- (AVRUPA)- BAŞAKŞEHİR DEVLET HASTANESİ"
+    },
+    {
+        "value": 3467,
+        "text": "İSTANBUL- (AVRUPA)- BAYRAMPAŞA DEVLET HASTANESİ"
+    },
+    {
+        "value": 419128,
+        "text": "İSTANBUL- (AVRUPA)- BEŞİKTAŞ- SAİT ÇİFTÇİ DEVLET HASTANESİ"
+    },
+    {
+        "value": 14182,
+        "text": "İSTANBUL- (AVRUPA)- BEYLİKDÜZÜ DEVLET HASTANESİ"
+    },
+    {
+        "value": 642968,
+        "text": "İSTANBUL-(AVRUPA)- BÜYÜKÇEKMECE  MİMAR SİNAN DEVLET HASTANESİ"
+    },
+    {
+        "value": 3286,
+        "text": "İSTANBUL- (AVRUPA)- ÇATALCA- İLYAS ÇOKAY DEVLET HASTANESİ"
+    },
+    {
+        "value": 223531,
+        "text": "İSTANBUL- (AVRUPA)- ESENYURT NECMİ KADIOĞLU DEVLET HASTANESİ"
+    },
+    {
+        "value": 177295,
+        "text": "İSTANBUL- (AVRUPA)- EYÜPSULTAN DEVLET HASTANESİ",
+        "children": [
+            {
+                "value": 801250,
+                "text": "İSTANBUL- (AVRUPA)- EYÜPSULTAN DEVLET HASTANESİ ALİYA İZZETBEGOVİÇ SEMT POLİKLİNİĞİ"
+            }
+        ]
+    },
+    {
+        "value": 3384,
+        "text": "İSTANBUL- (AVRUPA)- FATİH- HASEKİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+        "children": [
+            {
+                "value": 5796,
+                "text": "İSTANBUL- (AVRUPA)- FATİH- HASEKİ EĞİTİM VE ARAŞTIRMA HASTANESİNE BAĞLI SULTANGAZİ EK HİZMET BİNASI"
+            }
+        ]
+    },
+    {
+        "value": 177297,
+        "text": "İSTANBUL- (AVRUPA)- FATİH- İSTANBUL EĞİTİM VE ARAŞTIRMA HASTANESİ",
+        "children": [
+            {
+                "value": 177309,
+                "text": "İSTANBUL- (AVRUPA)- FATİH- İSTANBUL EĞİTİM VE ARAŞTIRMA HASTANESİ OSMANİYE SEMT POLİKLİNİĞİ"
+            }
+        ]
+    },
+    {
+        "value": 178044,
+        "text": "İSTANBUL- (AVRUPA)- KAĞITHANE DEVLET HASTANESİ"
+    },
+    {
+        "value": 426876,
+        "text": "İSTANBUL- (AVRUPA)- KÜÇÜKÇEKMECE- KANUNİ SULTAN SÜLEYMAN EĞİTİM VE ARAŞTIRMA HASTANESİ"
+    },
+    {
+        "value": 322024,
+        "text": "İSTANBUL- (AVRUPA)- MEHMET AKİF ERSOY GÖĞÜS KALP VE DAMAR CERRAHİSİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+        "children": [
+            {
+                "value": 340562,
+                "text": "İSTANBUL- (AVRUPA)- MEHMET AKİF ERSOY GÖĞÜS KALP VE DAMAR CERRAHİSİ EĞİTİM VE ARAŞTIRMA HASTANESİ KÜÇÜKÇEKMECE SEMT POLİKLİNİĞİ"
+            }
+        ]
+    },
+    {
+        "value": 3407,
+        "text": "İSTANBUL-(AVRUPA)-SAĞLIK BİLİMLERİ ÜNİVERSİTESİ GAZİOSMANPAŞA EĞİTİM VE ARAŞTIRMA HASTANESİ"
+    },
+    {
+        "value": 3355,
+        "text": "İSTANBUL- (AVRUPA)- SARIYER- İSTİNYE DEVLET HASTANESİ"
+    },
+    {
+        "value": 3359,
+        "text": "İSTANBUL- (AVRUPA)- SARIYER- METİN SABANCI BALTALİMANI KEMİK HASTALIKLARI EĞİTİM ARAŞTIRMA HASTANESİ"
+    },
+    {
+        "value": 3294,
+        "text": "İSTANBUL- (AVRUPA)- SİLİVRİ DEVLET HASTANESİ"
+    },
+    {
+        "value": 3324,
+        "text": "İSTANBUL- (AVRUPA)- ŞİŞLİ HAMİDİYE ETFAL EĞİTİM VE ARAŞTIRMA HASTANESİ",
+        "children": [
+            {
+                "value": 427125,
+                "text": "İSTANBUL-(AVRUPA)-SARIYER (EK KAMPÜS) SEYRANTEPE HAMİDİYE ETFAL EK HİZMET BİNASI"
+            },
+            {
+                "value": 5789,
+                "text": "İSTANBUL- (AVRUPA)- ŞİŞLİ HAMİDİYE ETFAL EĞİTİM VE ARAŞTIRMA HASTANESİ SARIYER ÇAYIRBAŞI EK HİZMET BİNASI"
+            }
+        ]
+    },
+    {
+        "value": 177300,
+        "text": "İSTANBUL- (AVRUPA)- ŞİŞLİ- PROF. DR. CEMİL TAŞCIOĞLU ŞEHİR HASTANESİ",
+        "children": [
+            {
+                "value": 807065,
+                "text": "İSTANBUL- (AVRUPA)- ŞİŞLİ- PROF. DR. CEMİL TAŞCIOĞLU ŞEHİR HASTANESİ GÜLBAHAR SEMT POLİKLİNİĞİ"
+            }
+        ]
+    },
+    {
+        "value": 682803,
+        "text": "İSTANBUL- (AVRUPA)-TAKSİM EĞİTİM VE ARAŞTIRMA HASTANESİ"
+    },
+    {
+        "value": 3318,
+        "text": "İSTANBUL- (AVRUPA)- YEDİKULE GÖĞÜS HASTALIKLARI VE GÖĞÜS CERRAHİSİ EĞİTİM VE ARAŞTIRMA HASTANESİ",
+        "children": [
+            {
+                "value": 426937,
+                "text": "İSTANBUL- (AVRUPA)- YEDİKULE GÖĞÜS HASTALIKLARI VE GÖĞÜS CERRAHİSİ EĞİTİM VE ARAŞTIRMA HASTANESİNE BAĞLI DR. İSMAİL NİYAZİ KURTULMUŞ EK HİZMET BİNASI"
+            }
+        ]
+    }
+]
